@@ -1,2 +1,2 @@
 # ScatterPlot-Unity3d
- ![](images/main.jpg)
+ ![](main.jpg)
