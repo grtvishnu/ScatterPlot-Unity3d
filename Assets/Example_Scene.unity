@@ -2217,7 +2217,7 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1734231748}
-  m_Text: dataset
+  m_Text: COVID 19 INDIA
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -2420,9 +2420,9 @@ MonoBehaviour:
   renderParticles: 0
   renderPrefabsWithColor: 1
   inputfile: india
-  column1: 3
-  column2: 1
-  column3: 2
+  column1: 1
+  column2: 2
+  column3: 3
   xColumnName: 
   yColumnName: 
   zColumnName: 
