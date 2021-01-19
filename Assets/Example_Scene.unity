@@ -1314,7 +1314,7 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 938105567}
-  m_Text: "Data from Dynamic Integrated \nClimate-Economy model"
+  m_Text: COVID-19 INDIA 13-01-2021
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -2202,7 +2202,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1734231748}
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 5.684342e-14, y: 1.106, z: 2.0700006}
+  m_LocalPosition: {x: -0, y: 1.106, z: 2.77}
   m_LocalScale: {x: 0.02000002, y: 0.02, z: 0.02000002}
   m_Children: []
   m_Father: {fileID: 119675292}
@@ -2419,7 +2419,7 @@ MonoBehaviour:
   renderPointPrefabs: 1
   renderParticles: 0
   renderPrefabsWithColor: 1
-  inputfile: india
+  inputfile: COVID_19_INDIA_13-01-2021
   column1: 1
   column2: 2
   column3: 3
